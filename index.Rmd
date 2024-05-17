@@ -3,9 +3,7 @@ title: "Exploratory Analysis"
 output: html_document
 ---
 
-## Project title
-
-Give your project a concise, interesting title that summarizes the entirety of your project
+## How Basketball has changed in the NBA Over the Years. Who Does it Best?
 
 ### Authors
 
@@ -13,20 +11,19 @@ Give your project a concise, interesting title that summarizes the entirety of y
 
 ### Date
 
-Winter 2022
+Spring 2024
 
 ### Abstract
 
-No more than three sentences that summarize your project. Focus on the very most important aspects. For example: (1) "Our main question is .... This question is important because .... To address the question, we will ...." (2) "We are concerned with ..., because .... To address this concern, we plan to ...." (3) "Consider that .... This is important because .... Accordingly, we plan to ...."
+The way that basketball has been played in the NBA has changed greatly over the course of history, whether that be from various rule changes to overall strategy. What I want to figure out with this project is how exactly the game has changed over the years and how much it has affected the game on a more personal level. To do this, I plan to analyze various stat differentials between different seasons, and which team have adapted best over the years.
 
 ### Keywords
 
-3-5 keywords that summarize your project.
-(e.g., "Keywords: human physiology; bicycle exercise; Gen Z; times-series data")
+NBA, Basketball, Statistics
 
 ### Introduction  
 
-Briefly introduce your project.  Include 3-5 research questions. What motivates the questions? Why are they important? (at least 200 words)
+Basketball, especially in the NBA, has gone through many significant transformations since the beginning. These changes include many things like strategy, rules changes, players roles, advancements, and more. The main thing that I want to identify is what changes occurred and how they affected the current NBA. This question is the main motivation for the entire project and it aims to highlight the old and current trends in basketball in the NBA. As with any game, knowing how the game has changed is incredibly important and necessary for analyzing who the best teams/players really are. This goes to the next question. Which teams have performed best from each era of the NBA? The best teams are capable of adapting to the current game and keeping up with the competition in order to stay competitive and on top of the rest of the league. This can be argued with player dominance and how strategy just did not matter in the face of certain players, however it should be noted that building a team around a dominant player is also a strategy as well as double/triple teaming certain players. The last question that I wish to ask is how player flexibility has changed overall, as certain players like Jokic have redefined in recent time how to play center.
 
 ### Related Work  
 
@@ -35,13 +32,40 @@ Describe your topic and related work in this space. You must include 3 citations
 ### The Dataset
 
 Where did you find the data? Please include a link to the data source  
+
+- https://www.kaggle.com/datasets/rodneycarroll78/nba-stats-1980-2024 (MAIN LINK TO ALL CSVs)
+- https://www.kaggle.com/datasets/rodneycarroll78/nba-stats-1980-2024?select=Team+Summaries.csv (TEAM SUMMARY)
+- https://www.kaggle.com/datasets/rodneycarroll78/nba-stats-1980-2024?select=Team+Totals.csv (TEAM TOTAL)
+
 Who collected the data?  
+
+- Rodney Carroll
+
 How was the data collected or generated?  
+
+- Statistics were pulled and aggregated into different CSVs from Basketball Reference.
+
 Why was the data collected?  
+
+- To record various seasonal stats and accolades of both players and teams.
+
 How many observations (rows) are in your data?  
+
+- 1254 (TEAM SUMMARY)
+- 1845 (TEAM TOTAL)
+
 How many features (columns) are in the data?  
+
+- 29 (TEAM SUMMARY)
+- 28 (TEAM TOTAL)
+
 What, if any, ethical questions or questions of power do you need to consider when working with this data?  
+
+- 
+
 What are possible limitations or problems with this data?   (at least 200 words)
+
+- 
 
 ### Implications
 
