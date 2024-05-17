@@ -29,7 +29,14 @@ Basketball, especially in the NBA, has gone through many significant transformat
 
 Describe your topic and related work in this space. You must include 3 citations to related work (URLs to similar work, high quality articles from the popular press, research papers, etc. ) Please use a standard citation style of your choice. (at least 200 words)
 
-- 
+- My topic is on how the NBA has changed over the years, and which teams have best kept up with the trends of these changes. This includes observing changes like changes in overall play style, changes in rules, and more, and how they have affected the league and the way people play. I think the main motivation for working on this project was definitely the more aggressive 3 point shooting scheme that has happened in the more recent years, especially with Steph Curry and the Golden State Warriors. Steve Kerr coaching and utilizing Curry’s 3 point shooting ability “revolutionized” the way that the game was played at that point, creating unprecedented numbers and scoring. Other than that another big topic that I wanted to talk about was how the game has changed in terms of physicality. In today’s NBA, you get away with a lot less in terms of what is called a foul, and as such you have many players who fish for fouls by blatantly flopping in order to sell that they were fouled. Despite that I am of the opinion that there are more floppers than back then, In the article I read, I think KD puts it perfectly, many old NBA fans will claim that the game back then was a lot more physical, but in reality, the game has just changed to be less tolerant.
+
+
+#### References
+
+- Morse, Ben. “Steph Curry: How Golden State Warriors Star “Revolutionized” the NBA.” CNN, 15 Dec. 2021, www.cnn.com/2021/12/14/sport/steph-curry-ray-allen-three-point-record-spt-intl/index.html. 
+- “Kevin Durant on Why NBA “Seemed” Tougher in 1980s and ’90s: “They Got Away with a Lot of Flagrant Fouls.”” CBSSports.com, 6 Apr. 2023, www.cbssports.com/nba/news/kevin-durant-on-why-nba-seemed-tougher-in-80s-and-90s-they-got-away-with-a-lot-of-flagrant-fouls/.
+- Schuhmann, John. “NBA’s 3-Point Revolution: How 1 Shot Is Changing the Game.” Www.nba.com, 14 Oct. 2021, www.nba.com/news/3-point-era-nba-75.
 
 ### The Dataset
 
@@ -99,7 +106,7 @@ Describe why you chose this chart and what information it reveals
 
 Here's an example of how to run an R script inside an RMarkdown file:
 
-``````{r, echo = FALSE, code = readLines("chart1_example.R")}
+``````{r, echo = FALSE, code = readLines("chart1_3PA.R")}
 ``````
 
 ### Chart 2
