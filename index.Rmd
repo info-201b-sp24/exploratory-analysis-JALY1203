@@ -61,7 +61,7 @@ How many features (columns) are in the data?
 
 What, if any, ethical questions or questions of power do you need to consider when working with this data?  
 
-- 
+- Not really any questions of power per se since this data is largely just for sports analysis, however it is important to note that data is objective, but what one individual gets from the data changes from person to person, so it really is on me to put forth the best product I can to avoid pushing false narratives.
 
 What are possible limitations or problems with this data?   (at least 200 words)
 
