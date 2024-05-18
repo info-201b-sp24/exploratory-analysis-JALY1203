@@ -113,7 +113,7 @@ The reason I chose this chart is so to display how the change in strategy during
 
 Personal Fouls is another topic that I wanted to talk about during this project, as another one of the main complaints that older fans have about today's NBA, is that the game isn't nearly as physical as it was back then. This chart shows the total fouls calculated per season of the NBA, and disregarding the boom in the late 1960s, since that was when many teams started joining the league, we can notice that from 1980 to 1990, there was a small upwards trend for fouling, and from early 2000 onward, there has been a small downwards trend in terms of fouling. Despite this, the graph shows almost negligible change in terms of large trend shifts in fouling. In my opinion, there are a lot of factors to this, but for the most part, the 3 point game of today in addition to more harsh foul calling probably has led to the slightly decreased personal fouls of today, while in the 80s and 90s.
 
-### Chart 3
+### Who Are the Most Dominant Teams of Each Era?
 
 ```{r, echo = FALSE, message = FALSE, code = readLines("chart3.R")}
 ```
