@@ -26,7 +26,7 @@ combined_wins <- bind_rows(wins_1980_1999, wins_2000_2019)
 # create bar graph
 ggplot(combined_wins, aes(x = reorder(team, -w), y = w, fill = Period)) +
   geom_bar(stat = "identity", position = position_dodge(width = 0.7)) +
-  labs(title = "Highest Win Count Teams in 1980-2000 vs 2000-2020",
+  labs(title = "Highest Win Count Teams in 1980-1999 vs 2000-2019",
        x = "Team",
        y = "Total Wins") +
   theme_minimal() +
