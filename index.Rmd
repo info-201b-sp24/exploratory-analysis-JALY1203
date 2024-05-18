@@ -92,26 +92,26 @@ What challenges or limitations might you need to address with your project idea 
 
 - While sorting some values from the data, I found that some of my guesses were correct while other weren't. One of the most dominant seasons that occurred to date was the 2016 championship run for the the Warriors which had them at the highest amount of wins in one season at 73. Unsurprisingly, the Lakers have overall the most game wins in total throughout all seasons since 1980 with 2186 despite their more poor performance in recent years. As well as this, the Celtics lead the league in points scored since 1980 with 643702, and the Nuggets lead the most points scored in one season in 1982 with 10371 point scored. And interestingly enough, the most personal fouls gotten in a season occurred in 1978 with 2470 from the Atlanta Hawks.
 
-### Table
+### Aggregate Table
 
 ```{r, echo = FALSE, message = FALSE, code = readLines("agg_table.R")}
 ```
 
 I think that the table shows the more important changes in play that basketball in the NBA has undergone throughout a 20 year period. More notably, the sheer amount of 3 point attempts being made from the modern day to 20 years ago. It also shows the environment for each team and how well they have done under the 3 point shooting game of today versus back then.
 
-### Chart 1
+### 3 Point Attempts throughout the Years
 
 The reason I chose this chart is so to display how the change in strategy during 2010s created an insane surge in 3 point shooting. You can see how in about 1995, when the 3 point line was shortened, there was a short surge of increased 3 point attempts, however it sooned dipped again once teams settled back into the more slow and methodical play style. Then, come 2010 and beyond, there was a huge surge in 3 point shooting from the likes of Steph Curry, James Harden, and more. Now in 2024, the 3 point shot is practiced unlike it was back then, owing to the hugely increase 3 point attempts in the NBA.
 
 ```{r, echo = FALSE, message = FALSE, warning = FALSE, code = readLines("chart1_3PA.R")}
 ```
 
-### Chart 2
+### Personal Fouls Throughout the Years
 
 ```{r, echo = FALSE, message = FALSE, code = readLines("chart2_PF.R")}
 ```
 
-Describe why you chose this chart and what information it reveals
+Personal Fouls is another topic that I wanted to talk about during this project, as another one of the main complaints that older fans have about today's NBA, is that the game isn't nearly as physical as it was back then. This chart shows the total fouls calculated per season of the NBA, and disregarding the boom in the late 1960s, since that was when many teams started joining the league, we can notice that from 1980 to 1990, there was a small upwards trend for fouling, and from early 2000 onward, there has been a small downwards trend in terms of fouling. Despite this, the graph shows almost negligible change in terms of large trend shifts in fouling. In my opinion, there are a lot of factors to this, but for the most part, the 3 point game of today in addition to more harsh foul calling probably has led to the slightly decreased personal fouls of today, while in the 80s and 90s.
 
 ### Chart 3
 
