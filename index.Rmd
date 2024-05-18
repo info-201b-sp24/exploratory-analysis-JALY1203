@@ -118,4 +118,4 @@ Personal Fouls is another topic that I wanted to talk about during this project,
 ```{r, echo = FALSE, message = FALSE, code = readLines("chart3.R")}
 ```
 
-The 1980s to 2000 as well as the 2000s to 2020 have been where some of the most prominent changes have happened in terms of play style and rules. The mid range game and physicality of the 1980s and the 3 point game and higher technical skill of the 2000s onward are some of the most notable traits of each era. This chart aims to show what team were most dominant in each era in terms of wins. In this you can see the Lakers dominated the older era while the Spurs had the most wins in the modern era.
+The 1980s to 1999 as well as the 2000-2019 onward have been where some of the most prominent changes have happened in terms of play style and rules. The mid range game and physicality of the 1980s and 1990s and the 3 point game and higher technical skill of the 2000s onward are some of the most notable traits of each era. This chart aims to show what team were most dominant in each era in terms of wins. In this you can see the Lakers dominated the older era while the Spurs had the most wins in the next 20 years.
