@@ -90,7 +90,7 @@ What challenges or limitations might you need to address with your project idea 
 
 ### Summary Information
 
-Write a summary paragraph of findings that includes the 5 values calculated from your summary information R script
+- While sorting some values from the data, I found that some of my guesses were correct while other weren't. One of the most dominant seasons that occurred to date was the 2016 championship run for the the Warriors which had them at the highest amount of wins in one season at 73. Unsurprisingly, the Lakers have overall the most game wins in total throughout all seasons since 1980 with 2186 despite their more poor performance in recent years. As well as this, the Celtics lead the league in points scored since 1980 with 643702, and the Nuggets lead the most points scored in one season in 1982 with 10371 point scored. And interestingly enough, the most personal fouls gotten in a season occurred in 1978 with 2470 from the Atlanta Hawks.
 
 ### Table
 
