@@ -31,7 +31,7 @@ most_points_season <- team_total_stats %>%
   filter(team != "League Average") %>%
   filter(pts == max(pts, na.rm = TRUE))
 
-# Seasons with most personal fouls
+# Season with most personal fouls
 
 highest_pf <- team_total_stats %>%
   filter(team != "League Average") %>%
