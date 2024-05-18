@@ -94,29 +94,28 @@ What challenges or limitations might you need to address with your project idea 
 
 ### Table
 
-Include a table of aggregate information
+```{r, echo = FALSE, message = FALSE, code = readLines("agg_table.R")}
+```
 
-Describe why you included the table and what information it reveals
+I think that the table shows the more important changes in play that basketball in the NBA has undergone throughout a 20 year period. More notably, the sheer amount of 3 point attempts being made from the modern day to 20 years ago. It also shows the environment for each team and how well they have done under the 3 point shooting game of today versus back then.
 
 ### Chart 1
 
-Include a chart
+The reason I chose this chart is so to display how the change in strategy during 2010s created an insane surge in 3 point shooting. You can see how in about 1995, when the 3 point line was shortened, there was a short surge of increased 3 point attempts, however it sooned dipped again once teams settled back into the more slow and methodical play style. Then, come 2010 and beyond, there was a huge surge in 3 point shooting from the likes of Steph Curry, James Harden, and more. Now in 2024, the 3 point shot is practiced unlike it was back then, owing to the hugely increase 3 point attempts in the NBA.
 
-Describe why you chose this chart and what information it reveals
-
-``````{r, echo = FALSE, code = readLines("chart1_3PA.R")}
-``````
+```{r, echo = FALSE, message = FALSE, warning = FALSE, code = readLines("chart1_3PA.R")}
+```
 
 ### Chart 2
 
-``````{r, echo = FALSE, code = readLines("chart2_PF.R")}
-``````
+```{r, echo = FALSE, message = FALSE, code = readLines("chart2_PF.R")}
+```
 
 Describe why you chose this chart and what information it reveals
 
 ### Chart 3
 
-``````{r, echo = FALSE, code = readLines("chart3_WL.R")}
-``````
+```{r, echo = FALSE, message = FALSE, code = readLines("chart3_WL.R")}
+```
 
 Describe why you chose this chart and what information it reveals
